@@ -6,6 +6,7 @@ public class B {
 		// TODO Auto-generated method stub
 		System.out.println("B");
 		System.out.println("devBB");
+		System.out.println("devCB");
 	}
 
 }
